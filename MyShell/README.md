@@ -1,4 +1,4 @@
-# Soad Shell 
+# My Shell 
 
 This project was made as part of the Operating Systems course and is a replica of the Linux terminal.
 
