@@ -6,7 +6,7 @@ This project was made as part of the Operating Systems course and is a replica o
 
 ```sh-session
 gcc -o Myshell Myshell.c -lreadline
-./soadshell
+./Myshell
 ```
 
 This terminal supports 4 types of commands
