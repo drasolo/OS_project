@@ -27,10 +27,6 @@ make
 ./myshell
 ```
 
-## 🖼 Demo
-
-Screenshots of shell functionality are located in `MyShell/rdme/`.
-
 ## 📚 Educational Purpose
 
 This project was developed for learning about:
